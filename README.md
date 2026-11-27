@@ -59,6 +59,7 @@ Most AppSec interview loops include a mix of:
 - [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [Security Labs (The Work Gym)](https://theworkgym.com/security-labs/) - Break a feature, fix the code and prove the fix holds, in Java, Python and TypeScript labs mapped to the OWASP Top 10 and CWE.
 
 ### Common Interview Questions
 - Walk through this code and identify issues
